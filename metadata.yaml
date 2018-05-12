@@ -1,0 +1,43 @@
+_repo: Gulliver-s-Reis-Naar-Liliput_28866
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Schmidt, Otto Ernst
+    alias: Ernst, Otto
+    birthdate: 1862
+    deathdate: 1926
+    gutenberg_agent_id: '33129'
+    url: http://www.gutenberg.org/2009/agents/33129
+    wikipedia: http://de.wikipedia.org/wiki/Otto_Ernst
+  - agent_name: Swift, Jonathan
+    alias: Swift, J. (Jonathan)
+    birthdate: 1667
+    deathdate: 1745
+    gutenberg_agent_id: '326'
+    url: http://www.gutenberg.org/2009/agents/326
+    wikipedia: http://en.wikipedia.org/wiki/Jonathan_Swift
+  editor:
+    agent_name: Mare, Stella
+    gutenberg_agent_id: '33556'
+    url: http://www.gutenberg.org/2009/agents/33556
+description: ''
+gutenberg_issued: '2009-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28866'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Satire'
+- !lcsh 'Gulliver, Lemuel (Fictitious character) -- Fiction'
+- !lcsh 'Travelers -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Voyages, Imaginary -- Early works to 1800'
+title: Gulliver's Reis Naar Liliput
+url: http://www.gutenberg.org/ebooks/28866
